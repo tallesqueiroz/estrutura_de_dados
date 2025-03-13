@@ -1,1 +1,1 @@
-# estrutura_de_dados
+# Disciplina de Estrutura de Dados
