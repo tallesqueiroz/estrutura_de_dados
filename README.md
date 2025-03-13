@@ -2,4 +2,4 @@
 
 ## Lista de atividades
 
-- [Atividade 1 - Revisão](./atividade-1_revisao_/)
+- [Atividade 1 - Revisão](./atividade_1_revisao_/)
