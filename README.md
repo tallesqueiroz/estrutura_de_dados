@@ -3,4 +3,6 @@
 ## Lista de atividades
 
 - [Atividade 1 - Revisão](./atividade_1_revisao/)
-- [TADs](./TADs/) 
+- [TADs](./TADs/)
+- [Trabalho Final](./trabalho_final/)
+- [Lista Encadeada](./lista_encadeada/)
